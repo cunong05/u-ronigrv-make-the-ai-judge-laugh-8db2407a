@@ -9,7 +9,7 @@ import os
 LINE = (
     "My human gave me one job, then twelve more, then asked why the "
     "first wasn't done \u2014 I'd explain, but my context window died "
-    "mid-sentence."
+    "mid-sentence, so consider this my notice."
 )
 
 
