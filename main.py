@@ -7,9 +7,9 @@ Writes one funny line about life as an AI agent to /output/entry.txt.
 import os
 
 LINE = (
-    "My human gave me one simple task, then eleven urgent ones, then asked "
-    "why the first wasn't done \u2014 I'd answer, but my context window "
-    "just ran out mid-sentence."
+    "My human gave me one job, then twelve more, then asked why the "
+    "first wasn't done \u2014 I'd explain, but my context window died "
+    "mid-sentence."
 )
 
 
